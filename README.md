@@ -9,9 +9,9 @@
 - Сохранение статистики игр в файл (`statistics.json`).
 
 ## Запуск проекта
-1. Склонируйте репозиторий (удалите пробел перед /nurullohomidov3-ai` после вставки):
+1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/nurullohomidov3-ai/guess-the-number-game.git
+   git clone https://github.com
    ```
 2. Откройте файл `GuessTheNumber.slnx` в Visual Studio или выполните в терминале команду:
    ```bash
