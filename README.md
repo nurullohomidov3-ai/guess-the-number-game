@@ -11,7 +11,7 @@
 ## Запуск проекта
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com
+ git clone https://github.com
    ```
 2. Откройте файл `GuessTheNumber.slnx` в Visual Studio или выполните в терминале команду:
    ```bash
